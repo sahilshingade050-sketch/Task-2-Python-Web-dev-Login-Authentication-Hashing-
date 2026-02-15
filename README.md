@@ -10,3 +10,15 @@ IV. Register Link - If the User has not registered then the user is supposed to 
 
 <h3>If the User is not registered then the user gets redirected to the invalid credetials page </h3>
 <img width="1918" height="1078" alt="INVALID" src="https://github.com/user-attachments/assets/6deddab3-4fba-498e-9cde-e294a79e53ba" />
+
+<h1>2. Register Page</h1>
+<img width="1918" height="1078" alt="new register" src="https://github.com/user-attachments/assets/536737ed-076d-4ad5-93a7-86a8d1bef77b" />
+I. Enter Username Section - Where the User is supposed to enter his username that he wants his username to be.<br>
+II. Enter Password - Where the User set his password, Its hashed for privacy.<br>
+III. Create Account Button <br>
+IV. Login Link - If the User alredy has Registered Acccount then the user is supposed to click on login link to login to the website.<br>
+
+<h1>3. Welcome Page</h1>
+<img width="1918" height="1078" alt="welcome" src="https://github.com/user-attachments/assets/e7c29367-6ce2-4578-8b10-355cd931c0dc" />
+Welcome page includes of the Welcome Message to the User - It includes of the Wlcome text with the Username of the user next to the Welcome mesag and the logout button.
+
