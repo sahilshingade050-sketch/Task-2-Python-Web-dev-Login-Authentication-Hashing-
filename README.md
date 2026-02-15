@@ -8,5 +8,5 @@ II. Enter Password - Where the User enters his password, Its hashed for privacy.
 III. Login Button <br>
 IV. Register Link - If the User has not registered then the user is supposed to click on register link to create his account and generate his password.<br>
 
-If the User is not registered then the user gets redirected to the invalid credetials page <br>
+<h3>If the User is not registered then the user gets redirected to the invalid credetials page </h3>
 <img width="1918" height="1078" alt="INVALID" src="https://github.com/user-attachments/assets/6deddab3-4fba-498e-9cde-e294a79e53ba" />
