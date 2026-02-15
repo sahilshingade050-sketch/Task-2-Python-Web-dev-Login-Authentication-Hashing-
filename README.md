@@ -22,3 +22,11 @@ IV. Login Link - If the User alredy has Registered Acccount then the user is sup
 <img width="1918" height="1078" alt="welcome" src="https://github.com/user-attachments/assets/e7c29367-6ce2-4578-8b10-355cd931c0dc" />
 Welcome page includes of the Welcome Message to the User - It includes of the Wlcome text with the Username of the user next to the Welcome mesag and the logout button.
 
+<h2>Screenshots of the codes in Vs code</h2>
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a7a5da64-a548-4b06-a21f-15e1dd66965f" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/24c5f671-68c8-4e64-b974-0727bff5629d" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b1c2b741-4e48-4fa8-ab94-bafccaef3732" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/060b000a-af9d-4a69-b801-1ba2846669de" />
+
+
+
